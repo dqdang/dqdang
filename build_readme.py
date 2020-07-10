@@ -10,10 +10,10 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
-# TOKEN = os.environ.get("TOKEN", "")
-TOKEN = ""
-with open("token", "r") as f:
-    TOKEN = f.read()
+TOKEN = os.environ.get("TOKEN", "")
+# TOKEN = ""
+# with open("token", "r") as f:
+#     TOKEN = f.read()
 
 def replace_chunk(content, marker, chunk):
     r = re.compile(

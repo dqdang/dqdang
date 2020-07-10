@@ -11,8 +11,9 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
 # TOKEN = os.environ.get("TOKEN", "")
-TOKEN = "23a7785b26f90f5566f6d9f32699831f624472d9"
-
+TOKEN = ""
+with open("token", "r") as f:
+    TOKEN = f.read()
 
 def replace_chunk(content, marker, chunk):
     r = re.compile(

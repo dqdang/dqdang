@@ -7,6 +7,8 @@ Send me a message: <br />
 <a href="https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc" target="_blank">PGP</a>
 <a href="https://www.buymeacoffee.com/dqdang" target="_blank">coffee</a>
 
+<table><tr><td valign="top">
 <!-- recent_releases starts -->
 
 <!-- recent_releases ends -->
+</td></tr></table>

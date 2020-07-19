@@ -13,11 +13,11 @@ Send me a message: <br />
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [rpicluster-stretch Version 4](https://github.com/rpicluster/rpicluster-stretch/releases/tag/v0.8) - 2020-07-10
-* [xv6-docker Version 1.1](https://github.com/dqdang/xv6-docker/releases/tag/v1.1) - 2020-07-10
-* [joyjenerator Version 1.1](https://github.com/dqdang/joyjenerator/releases/tag/v1.1) - 2020-07-10
-* [grover-algorithm Version 1.1](https://github.com/dqdang/grover-algorithm/releases/tag/v1.1) - 2020-07-09
-* [hold-my-liquor Version 1.1](https://github.com/dqdang/hold-my-liquor/releases/tag/v1.1) - 2020-07-03
+* [digested-clips Version 2.2](https://github.com/dqdang/digested-clips/releases/tag/v2.2) - 2020-07-19
+* [framable Version 1.0](https://github.com/dqdang/framable/releases/tag/v1.0) - 2020-07-19
+* [mourning-ring Version 1.0](https://github.com/dqdang/mourning-ring/releases/tag/v1.0) - 2020-07-19
+* [dqdang Version 1.0](https://github.com/dqdang/dqdang/releases/tag/v1.0) - 2020-07-19
+* [vfilter Version 0.1](https://github.com/dqdang/vfilter/releases/tag/v0.1) - 2020-07-19
 <!-- recent_releases ends -->
 
 </td></tr></table>

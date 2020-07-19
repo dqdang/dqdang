@@ -1,5 +1,7 @@
 ### 🤔
 
+![Build README](https://github.com/dqdang/dqdang/workflows/Build%20README/badge.svg)
+
 Send me a message: <br />
 <a href="mailto:dqdang17@gmail.com">email</a>
 <a href="https://www.m.me/dqdang1" target="_blank">messenger</a>

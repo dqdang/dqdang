@@ -13,11 +13,11 @@ Send me a message: <br />
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [simple-shell Version 1.0](https://github.com/dqdang/simple-shell/releases/tag/v1.0) - 2020-07-21
+* [itemized-receipt Version 1.1](https://github.com/dqdang/itemized-receipt/releases/tag/v1.1) - 2020-07-21
+* [simple-secure-website Version 1.0](https://github.com/dqdang/simple-secure-website/releases/tag/v1.0) - 2020-07-21
 * [vfilter Version 1.0](https://github.com/dqdang/vfilter/releases/tag/v1.0) - 2020-07-20
 * [digested-clips Version 2.2](https://github.com/dqdang/digested-clips/releases/tag/v2.2) - 2020-07-19
-* [framable Version 1.0](https://github.com/dqdang/framable/releases/tag/v1.0) - 2020-07-19
-* [mourning-ring Version 1.0](https://github.com/dqdang/mourning-ring/releases/tag/v1.0) - 2020-07-19
-* [dqdang Version 1.0](https://github.com/dqdang/dqdang/releases/tag/v1.0) - 2020-07-19
 <!-- recent_releases ends -->
 
 </td></tr></table>

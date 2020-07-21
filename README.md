@@ -16,8 +16,8 @@ Send me a message: <br />
 * [simple-shell Version 1.0](https://github.com/dqdang/simple-shell/releases/tag/v1.0) - 2020-07-21
 * [itemized-receipt Version 1.1](https://github.com/dqdang/itemized-receipt/releases/tag/v1.1) - 2020-07-21
 * [simple-secure-website Version 1.0](https://github.com/dqdang/simple-secure-website/releases/tag/v1.0) - 2020-07-21
-* [vfilter Version 1.0](https://github.com/dqdang/vfilter/releases/tag/v1.0) - 2020-07-20
-* [digested-clips Version 2.2](https://github.com/dqdang/digested-clips/releases/tag/v2.2) - 2020-07-19
+* [groovy3 Version 1.1](https://github.com/dqdang/groovy3/releases/tag/v1.1) - 2020-07-21
+* [humble-abode Version 1.0](https://github.com/dqdang/humble-abode/releases/tag/v1.0) - 2020-07-21
 <!-- recent_releases ends -->
 
 </td></tr></table>

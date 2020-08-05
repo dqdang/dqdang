@@ -1,6 +1,6 @@
 ### 🤔
 
-![Build README](https://github.com/dqdang/dqdang/workflows/Build%20README/badge.svg)
+<!-- ![Build README](https://github.com/dqdang/dqdang/workflows/Build%20README/badge.svg) -->
 
 <table><tr><td valign="top" width="50%">
 

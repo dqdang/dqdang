@@ -15,7 +15,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [hold-my-liquor Version 1.2](https://github.com/dqdang/hold-my-liquor/releases/tag/v1.2) - 2020-08-05
+* [hold-my-liquor Version 1.3](https://github.com/dqdang/hold-my-liquor/releases/tag/v1.3) - 2020-09-02
 * [dqdang.github.io Version 1.4](https://github.com/dqdang/dqdang.github.io/releases/tag/v1.4) - 2020-08-05
 * [itemized-receipt Version 1.2](https://github.com/dqdang/itemized-receipt/releases/tag/v1.2) - 2020-08-05
 * [groovy3 Version 1.2](https://github.com/dqdang/groovy3/releases/tag/v1.2) - 2020-08-05

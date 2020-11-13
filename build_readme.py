@@ -6,6 +6,7 @@ import pathlib
 from python_graphql_client import GraphqlClient
 import re
 
+
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 

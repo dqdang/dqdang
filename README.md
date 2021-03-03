@@ -2,7 +2,7 @@
 
 <!-- ![Build README](https://github.com/dqdang/dqdang/workflows/Build%20README/badge.svg) -->
 
-<table><tr><td valign="top" width="41%">
+<table><tr><td valign="top" width="42%">
 
 ### Send me a message
 * [email](mailto:dqdang17@gmail.com)
@@ -11,7 +11,7 @@
 * [PGP](https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc)
 * [coffee](https://www.buymeacoffee.com/dqdang)
 
-</td><td valign="top" width="59%">
+</td><td valign="top" width="58%">
 
 ### Recent releases
 <!-- recent_releases starts -->

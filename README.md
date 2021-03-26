@@ -2,7 +2,7 @@
 
 <!-- ![Build README](https://github.com/dqdang/dqdang/workflows/Build%20README/badge.svg) -->
 
-<table><tr><td valign="top" width="42%">
+<table><tr><td valign="top" width="21%">
 
 ### Send me a message
 * [email](mailto:dqdang17@gmail.com)
@@ -21,5 +21,11 @@
 * [hold-my-liquor Version 1.3](https://github.com/dqdang/hold-my-liquor/releases/tag/v1.3) - 2020-09-02
 * [dqdang.github.io Version 1.4](https://github.com/dqdang/dqdang.github.io/releases/tag/v1.4) - 2020-08-05
 <!-- recent_releases ends -->
+
+</td><td valign="top" width="21%">
+
+### Fun stats
+* ![](https://komarev.com/ghpvc/?username=dqdang)
+* [GitHub Visualizer](http://ghv.artzub.com/#user=dqdang)
 
 </td></tr></table>

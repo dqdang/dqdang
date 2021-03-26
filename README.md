@@ -24,7 +24,7 @@
 
 </td><td valign="top" width="21%">
 
-### Fun graphs
+### Fun stats
 * [repo visualizer](http://ghv.artzub.com/#user=dqdang)
 * [coder stats](https://coderstats.net/github/#dqdang)
 

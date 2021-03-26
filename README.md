@@ -2,16 +2,16 @@
 
 <!-- ![Build README](https://github.com/dqdang/dqdang/workflows/Build%20README/badge.svg) -->
 
-<table><tr><td valign="top" width="21%">
+<table><tr><td valign="top" width="25%">
 
-### Send me a message
+### Message me
 * [email](mailto:dqdang17@gmail.com)
 * [messenger](https://www.m.me/dqdang1)
 * [reddit](https://www.reddit.com/user/outsidefarmland)
 * [PGP](https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc)
 * [coffee](https://www.buymeacoffee.com/dqdang)
 
-</td><td valign="top" width="58%">
+</td><td valign="top" width="54%">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -25,7 +25,7 @@
 </td><td valign="top" width="21%">
 
 ### Fun stats
+* [repo visualizer](http://ghv.artzub.com/#user=dqdang)
 * ![](https://komarev.com/ghpvc/?username=dqdang)
-* [GitHub Visualizer](http://ghv.artzub.com/#user=dqdang)
 
 </td></tr></table>

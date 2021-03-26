@@ -26,6 +26,6 @@
 
 ### Fun stats
 * [repo visualizer](http://ghv.artzub.com/#user=dqdang)
-* ![](https://komarev.com/ghpvc/?username=dqdang)
+* [coder stats](https://coderstats.net/github/#dqdang)
 
 </td></tr></table>

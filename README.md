@@ -1,4 +1,4 @@
-### 🤔
+###
 
 <!-- ![Build README](https://github.com/dqdang/dqdang/workflows/Build%20README/badge.svg) -->
 

@@ -27,5 +27,5 @@
 ### Fun stats
 * [repo visualizer](http://ghv.artzub.com/#user=dqdang)
 * [coder stats](https://coderstats.net/github/#dqdang)
-* [oss insight)(https://ossinsight.io/analyze/dqdang)
+* [oss insight](https://ossinsight.io/analyze/dqdang)
 </td></tr></table>

@@ -25,7 +25,7 @@
 </td><td valign="top" width="21%">
 
 ### Fun stats
-* [repo visualizer](http://ghv.artzub.com/#user=dqdang)
+* [repo tracker](https://repo-tracker.com/r/gh/dqdang/dqdang)
 * [coder stats](https://coderstats.net/github/#dqdang)
 * [oss insight](https://ossinsight.io/analyze/dqdang)
 </td></tr></table>

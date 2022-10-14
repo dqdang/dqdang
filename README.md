@@ -15,11 +15,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [rpicluster-stretch Version 1](https://github.com/rpicluster/rpicluster-stretch/releases/tag/v0.1) - 2018-06-15
-* [dropbot Pre-Alpha Release](https://github.com/tmbernardo/dropbot/releases/tag/v0.01) - 2018-08-28
-* [xv6-docker Initial Release](https://github.com/dqdang/xv6-docker/releases/tag/v0.1) - 2018-12-15
-* [digested-clips Initial Release](https://github.com/dqdang/digested-clips/releases/tag/V0.1) - 2018-12-15
-* [simple-shell Initial Release](https://github.com/dqdang/simple-shell/releases/tag/v0.1) - 2018-12-15
+* [strafe Version 0.1](https://github.com/dqdang/strafe/releases/tag/v0.1) - 2021-04-15
+* [lucifer Version 0.1](https://github.com/dqdang/lucifer/releases/tag/v0.1) - 2021-02-03
+* [ward-hop Version 0.1](https://github.com/dqdang/ward-hop/releases/tag/v0.1) - 2021-01-12
+* [simple-secure-website Version 1.0](https://github.com/dqdang/simple-secure-website/releases/tag/v1.0) - 2020-07-21
+* [framable Version 1.0](https://github.com/dqdang/framable/releases/tag/v1.0) - 2020-07-19
 <!-- recent_releases ends -->
 
 </td><td valign="top" width="21%">

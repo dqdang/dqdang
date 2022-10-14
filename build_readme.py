@@ -95,7 +95,7 @@ def fetch_releases(oauth_token):
 if __name__ == "__main__":
     readme = root / "README.md"
     releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
+    releases.sort(key=lambda r: r["published_at"])
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) - {published_at}".format(**release)

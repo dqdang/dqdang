@@ -15,11 +15,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [strafe Version 0.1](https://github.com/dqdang/strafe/releases/tag/v0.1) - 2021-04-15
-* [lucifer Version 0.1](https://github.com/dqdang/lucifer/releases/tag/v0.1) - 2021-02-03
-* [ward-hop Version 0.1](https://github.com/dqdang/ward-hop/releases/tag/v0.1) - 2021-01-12
-* [simple-secure-website Version 1.0](https://github.com/dqdang/simple-secure-website/releases/tag/v1.0) - 2020-07-21
-* [framable Version 1.0](https://github.com/dqdang/framable/releases/tag/v1.0) - 2020-07-19
+* [backscratcher Version 1.2](https://github.com/dqdang/backscratcher/releases/tag/v1.2) - 2022-10-14T09:10:26Z
+* [strafe Version 0.3](https://github.com/dqdang/strafe/releases/tag/v0.3) - 2022-09-27T20:43:01Z
+* [dqdang Version 1.2](https://github.com/dqdang/dqdang/releases/tag/v1.2) - 2022-09-02T08:25:45Z
+* [hold-my-liquor Version 1.4](https://github.com/dqdang/hold-my-liquor/releases/tag/v1.4) - 2022-04-04T22:53:26Z
+* [ward-hop Version 0.2](https://github.com/dqdang/ward-hop/releases/tag/v0.2) - 2021-04-25T04:30:10Z
 <!-- recent_releases ends -->
 
 </td><td valign="top" width="21%">

@@ -51,7 +51,7 @@ organization_graphql = """
   }
 """
 
-def make_query(after_cursor=None):
+def make_query(after_cursor=None, include_organization=False):
     return """
 query {
   ORGANIZATION
@@ -79,7 +79,10 @@ query {
 }
 """.replace(
         "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+    ).replace(
+        "ORGANIZATION", organization_graphql if include_organization else "",
     )
+
 
 
 def fetch_releases(oauth_token):
@@ -93,7 +96,7 @@ def fetch_releases(oauth_token):
 
     while has_next_page:
         data = client.execute(
-            query=make_query(after_cursor, include_organization=first),
+            query=make_query(after_cursor, include_organization=True),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
         first = False

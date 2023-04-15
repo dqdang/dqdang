@@ -137,7 +137,7 @@ def fetch_releases(oauth_token):
             mx = release["length"]
     for release in releases[:5]:
         release["spaces"] = " " * (mx - release["length"])
-        if release["length"] = mx:
+        if release["length"] == mx:
             release["last_one"] = "&nbsp;" * 8
         else:
             release["last_one"] = ""

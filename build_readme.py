@@ -145,7 +145,7 @@ if __name__ == "__main__":
     releases = fetch_releases(TOKEN)
     md = "\n".join(
         [
-            "* [{repo} {release}]({url}) - {spaces} {published_day}".format(**release)
+            "* [{repo} {release}]({url}) {spaces} - {published_day}".format(**release)
             for release in releases[:5]
         ]
     )

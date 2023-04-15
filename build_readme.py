@@ -137,6 +137,10 @@ def fetch_releases(oauth_token):
             mx = release["length"]
     for release in releases[:5]:
         release["spaces"] = " " * (mx - release["length"])
+        if release["length"] = mx:
+            release["last_one"] = "&nbsp;" * 8
+        else:
+            release["last_one"] = ""
     return releases
 
 
@@ -145,7 +149,7 @@ if __name__ == "__main__":
     releases = fetch_releases(TOKEN)
     md = "\n".join(
         [
-            "* [{repo} {release}]({url}){spaces} - {published_day}".format(**release)
+            "* [{repo} {release}]({url}){spaces} - {published_day}{last_one}".format(**release)
             for release in releases[:5]
         ]
     )

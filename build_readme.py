@@ -136,8 +136,7 @@ def fetch_releases(oauth_token):
         if release["length"] > mx:
             mx = release["length"]
     for release in releases[:5]:
-        print(release["repo"], mx - release["length"])
-        release["spaces"] = "&nbsp;" * (mx - release["length"])
+        release["spaces"] = " " * (mx - release["length"])
     return releases
 
 

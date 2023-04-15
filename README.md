@@ -23,7 +23,7 @@
 </td><td valign="top">
 
 ### Fun stats
-* [repo tracker](https://repo-tracker.com/r/gh/dqdang/dqdang)
+* [repo tracker](https://repo-tracker.com/r/gh/dqdang/dqdang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 * [coder stats](https://coderstats.net/github/#dqdang)
 * [oss insight](https://ossinsight.io/analyze/dqdang)
 </td></tr></table>

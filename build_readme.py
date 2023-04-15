@@ -125,7 +125,7 @@ def fetch_releases(oauth_token):
                         "url": repo["releases"]["nodes"][0]["url"],
                         "total_releases": repo["releases"]["totalCount"],
                         "length": 3 + len(repo["name"]) + 1 + len(repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip()) + 2 + 
-                        len(repo["url"]) + 4 + len(repo["releases"]["nodes"][0]["publishedAt"].split("T")[0])
+                        len(repo["url"]) + 1 + len(repo["releases"]["nodes"][0]["publishedAt"].split("T")[0])
                     }
                 )
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
@@ -145,7 +145,7 @@ if __name__ == "__main__":
     releases = fetch_releases(TOKEN)
     md = "\n".join(
         [
-            "* [{repo} {release}]({url}) {spaces} - {published_day}".format(**release)
+            "* [{repo} {release}]({url}){spaces} - {published_day}".format(**release)
             for release in releases[:5]
         ]
     )

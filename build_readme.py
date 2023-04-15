@@ -124,10 +124,18 @@ def fetch_releases(oauth_token):
                         ].split("T")[0],
                         "url": repo["releases"]["nodes"][0]["url"],
                         "total_releases": repo["releases"]["totalCount"],
+                        "length": 3 + len(repo["name"]) + 1 + len(repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip()) + 2 + 
+                        len(repo["url"]) + 4 + len(repo["releases"]["nodes"][0]["publishedAt"].split("T")[0])
                     }
                 )
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
         has_next_page = after_cursor
+    mx = -1
+    for release in releases[:5]:
+        if release["length"] > mx:
+            mx = release["length"]
+    for release in releases[:5]:
+        release["spaces"] = mx - releases["length"]
     return releases
 
 
@@ -137,7 +145,7 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
-            "* [{repo} {release}]({url}) - {published_day}".format(**release)
+            "* [{repo} {release}]({url}) -{spaces}{published_day}".format(**release)
             for release in releases[:5]
         ]
     )

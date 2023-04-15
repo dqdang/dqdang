@@ -130,6 +130,7 @@ def fetch_releases(oauth_token):
                 )
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
         has_next_page = after_cursor
+    releases.sort(key=lambda r: r["published_at"], reverse=True)
     mx = -1
     for release in releases[:5]:
         if release["length"] > mx:
@@ -142,7 +143,6 @@ def fetch_releases(oauth_token):
 if __name__ == "__main__":
     readme = root / "README.md"
     releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) -{spaces}{published_day}".format(**release)

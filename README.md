@@ -13,11 +13,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [mesh Version 1.0](https://github.com/dqdang/mesh/releases/tag/v1.0)                     - 2023-04-15
-* [strafe Version 0.4](https://github.com/dqdang/strafe/releases/tag/v0.4)                 - 2023-04-15
-* [backscratcher Version 1.2](https://github.com/dqdang/backscratcher/releases/tag/v1.2)   - 2022-10-14
-* [dqdang Version 1.2](https://github.com/dqdang/dqdang/releases/tag/v1.2)                 - 2022-09-02
-* [hold-my-liquor Version 1.4](https://github.com/dqdang/hold-my-liquor/releases/tag/v1.4) - 2022-04-04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* [old-reddit-redirect Version 1.6.1](https://github.com/dqdang/old-reddit-redirect/releases/tag/v1.6.1) - 2023-04-27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* [mesh Version 1.0](https://github.com/dqdang/mesh/releases/tag/v1.0)                                 - 2023-04-15
+* [strafe Version 0.4](https://github.com/dqdang/strafe/releases/tag/v0.4)                             - 2023-04-15
+* [backscratcher Version 1.2](https://github.com/dqdang/backscratcher/releases/tag/v1.2)               - 2022-10-14
+* [dqdang Version 1.2](https://github.com/dqdang/dqdang/releases/tag/v1.2)                             - 2022-09-02
 <!-- recent_releases ends -->
 <br />
 </td><td valign="top">

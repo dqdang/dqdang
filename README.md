@@ -24,6 +24,6 @@
 
 ### Fun stats
 * [repo tracker](https://repo-tracker.com/r/gh/dqdang/dqdang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-* [coder stats](https://coderstats.net/github/#dqdang)
+* [coder stats](https://coderstats.github.io/github/#dqdang)
 * [oss insight](https://ossinsight.io/analyze/dqdang)
 </td></tr></table>

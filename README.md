@@ -23,7 +23,7 @@
 </td><td valign="top">
 
 ### Fun stats
-* [user search]([https://repo-tracker.com/r/gh/dqdang/dqdang](https://simonsmith.github.io/github-user-search/#/dqdang))&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* [user search](https://simonsmith.github.io/github-user-search/#/dqdang)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 * [coder stats](https://coderstats.github.io/github/#dqdang)
 * [oss insight](https://ossinsight.io/analyze/dqdang)
 </td></tr></table>

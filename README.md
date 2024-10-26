@@ -13,7 +13,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [mesh Version 1.1](https://github.com/dqdang/mesh/releases/tag/v1.1)                                 - 2024-10-06
+* [mesh Version 1.2](https://github.com/dqdang/mesh/releases/tag/v1.2)                                 - 2024-10-26
 * [old-reddit-redirect Version 1.7.2](https://github.com/dqdang/old-reddit-redirect/releases/tag/v1.7.2) - 2023-08-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 * [dqdang.github.io Version 1.5](https://github.com/dqdang/dqdang.github.io/releases/tag/v1.5)         - 2023-07-24
 * [stargazing Version 1.0](https://github.com/dqdang/stargazing/releases/tag/v1.0)                     - 2023-06-27

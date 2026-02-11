@@ -13,11 +13,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [strafe Version 1.0](https://github.com/dqdang/strafe/releases/tag/v1.0)                             - 2026-02-11
+* [stargazing Version 1.1](https://github.com/dqdang/stargazing/releases/tag/v1.1)                     - 2026-02-11
+* [shred Version 0.2](https://github.com/dqdang/shred/releases/tag/v0.2)                               - 2025-06-10
+* [route-214 Version 0.2](https://github.com/dqdang/route-214/releases/tag/v0.2)                       - 2025-06-10
 * [old-reddit-redirect Version 1.7.3](https://github.com/dqdang/old-reddit-redirect/releases/tag/v1.7.3) - 2024-12-03&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-* [mesh Version 1.2](https://github.com/dqdang/mesh/releases/tag/v1.2)                                 - 2024-10-26
-* [dqdang.github.io Version 1.5](https://github.com/dqdang/dqdang.github.io/releases/tag/v1.5)         - 2023-07-24
-* [stargazing Version 1.0](https://github.com/dqdang/stargazing/releases/tag/v1.0)                     - 2023-06-27
-* [strafe Version 0.4](https://github.com/dqdang/strafe/releases/tag/v0.4)                             - 2023-04-15
 <!-- recent_releases ends -->
 <br />
 </td><td valign="top">
